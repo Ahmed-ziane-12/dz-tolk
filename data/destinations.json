@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "title": "Ghardaïa",
+    "title_ar": "غرداية",
+    "lat": 32.4905,
+    "lng": 3.6739,
+    "description": "A masterpiece of Mozabite architecture in the M'zab Valley. Founded in the 11th century, this UNESCO World Heritage site showcases remarkable Berber urban planning with its distinctive mosque-centered towns.",
+    "description_ar": "تحفة معمارية مزابية في وادي مزاب. تأسست في القرن الحادي عشر، هذا الموقع المدرج ضمن التراث العالمي لليونسكو يعرض تخطيطاً عمرانياً بربرياً رائعاً بمدنه المتمحورة حول المسجد.",
+    "cover": "/images/d1.jpg",
+    "rating": 4.8,
+    "category": "Heritage",
+    "category_ar": "تراث",
+    "region": "M'zab Valley",
+    "region_ar": "وادي مزاب",
+    "temp": "38°C",
+    "distance": "600 km from Algiers",
+    "history": [
+      "Founded in the 11th century by the Mozabites, Ghardaïa stands as one of the most remarkable examples of Berber urban planning.",
+      "The pentapolis of the M'zab Valley — Ghardaïa, Melika, Beni Isguen, Bou Nouara, and El Atteuf — was inscribed as a UNESCO World Heritage site in 1982.",
+      "Each town is centered around a mosque with a distinctive minaret that served both spiritual and defensive purposes, creating a unique skyline that has remained virtually unchanged for centuries."
+    ],
+    "history_ar": [
+      "تأسست غرداية في القرن الحادي عشر على يد المزابيين، وتعتبر واحدة من أبرز الأمثلة على التخطيط العمراني البربري.",
+      "المدن الخمس لوادي مزاب — غرداية، مليكة، بني إسقن، بونورة، والعطف — أدرجت ضمن مواقع التراث العالمي لليونسكو عام 1982.",
+      "تتمحور كل مدينة حول مسجد بمئذنة مميزة خدمت أغراضاً دينية ودفاعية، مما خلق أفقاً فريداً ظل دون تغيير لقرون."
+    ],
+    "nearbyGems": [
+      { "name": "Beni Isguen", "slug": "beni-isguen", "desc": "The holy city of the M'zab" },
+      { "name": "El Atteuf", "slug": "el-atteuf", "desc": "The oldest settlement in the valley" },
+      { "name": "Melika", "slug": "melika", "desc": "Known for its traditional weaving" },
+      { "name": "Bou Nouara", "slug": "bou-nouara", "desc": "The garden city of the M'zab" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Timgad",
+    "title_ar": "تيمقاد",
+    "lat": 35.4845,
+    "lng": 6.4686,
+    "description": "Roman colonial city founded by Emperor Trajan around 100 AD. Known as the 'Pompeii of Africa', its grid layout is a masterpiece of Roman urban planning.",
+    "description_ar": "مدينة استعمارية رومانية أسسها الإمبراطور تراجان حوالي عام 100 ميلادي. تُعرف باسم 'بومبي أفريقيا'، وتخطيطها الشبكي هو تحفة من التخطيط العمراني الروماني.",
+    "cover": "/images/d2.jpg",
+    "rating": 4.7,
+    "category": "Heritage",
+    "category_ar": "تراث",
+    "region": "Aurès Mountains",
+    "region_ar": "جبال الأوراس",
+    "temp": "32°C",
+    "distance": "480 km from Algiers",
+    "history": [
+      "Timgad was founded by Emperor Trajan around 100 AD as a Roman colonial town for veteran soldiers.",
+      "Its perfectly preserved grid plan, with a cardo and decumanus intersecting at right angles, is considered one of the finest examples of Roman urban planning in Africa.",
+      "The site features a magnificent 3,500-seat theater, triumphal arch, thermal baths, and a library that once held thousands of scrolls."
+    ],
+    "history_ar": [
+      "تأسست تيمقاد على يد الإمبراطور تراجان حوالي عام 100 ميلادي كمدينة استعمارية للجنود المحاربين القدماء.",
+      "تخطيطها الشبكي المحفوظ تماماً، مع تقاطع الكاردو والديكومانوس بزوايا قائمة، يعتبر أحد أروع أمثلة التخطيط العمراني الروماني في أفريقيا.",
+      "يضم الموقع مسرحاً رائعاً يتسع لـ 3500 متفرج، وقوس نصر، وحمامات حرارية، ومكتبة كانت تضم آلاف المخطوطات."
+    ],
+    "nearbyGems": [
+      { "name": "Lambessa", "slug": "lambessa", "desc": "Ancient Roman legionary fortress" },
+      { "name": "Batna", "slug": "batna", "desc": "Gateway to the Aurès region" },
+      { "name": "Menaa", "slug": "menaa", "desc": "Famous for its Roman aqueduct" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Algiers",
+    "title_ar": "الجزائر العاصمة",
+    "lat": 36.7538,
+    "lng": 3.0588,
+    "description": "The white city blending Mediterranean charm and North African soul. The Casbah, a UNESCO World Heritage site, winds through narrow alleys filled with history.",
+    "description_ar": "المدينة البيضاء تمزج بين سحر البحر الأبيض المتوسط وروح شمال أفريقيا. القصبة المدرجة ضمن التراث العالمي لليونسكو تمتد عبر أزقة ضيقة مليئة بالتاريخ.",
+    "cover": "/images/d3.jpg",
+    "rating": 4.6,
+    "category": "Urban",
+    "category_ar": "مدينة",
+    "region": "Mediterranean Coast",
+    "region_ar": "الساحل المتوسطي",
+    "temp": "25°C",
+    "distance": "Capital city",
+    "history": [
+      "Algiers has been a strategic Mediterranean port since Phoenician times, known as Icosium to the Romans.",
+      "The Casbah, built on the ruins of the ancient city, became a UNESCO World Heritage site in 1992, preserving its unique maze-like structure.",
+      "From Ottoman rule to French colonialism and the war of independence, Algiers bears the marks of a rich and turbulent history."
+    ],
+    "history_ar": [
+      "كانت الجزائر ميناءً استراتيجياً على البحر المتوسط منذ العصور الفينيقية، وعرفت باسم إكوسيوم عند الرومان.",
+      "القصبة المبنية على أنقاض المدينة القديمة أدرجت ضمن مواقع التراث العالمي لليونسكو عام 1992، محافظة على هيكلها الشبكي الفريد.",
+      "من الحكم العثماني إلى الاستعمار الفرنسي وحرب التحرير، تحمل الجزائر بصمات تاريخ غني ومضطرب."
+    ],
+    "nearbyGems": [
+      { "name": "Tipaza", "slug": "tipaza", "desc": "Roman ruins by the sea" },
+      { "name": "Cherchell", "slug": "cherchell", "desc": "Ancient Roman and Phoenician city" },
+      { "name": "Sidi Fredj", "slug": "sidi-fredj", "desc": "Coastal resort town" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Tassili n'Ajjer",
+    "title_ar": "طاسيلي ناجر",
+    "lat": 25.3333,
+    "lng": 8,
+    "description": "A vast plateau in the Sahara containing one of the world's most important collections of prehistoric rock art, dating back over 10,000 years.",
+    "description_ar": "هضبة شاسعة في الصحراء تحتوي على واحدة من أهم مجموعات الفن الصخري ما قبل التاريخ في العالم، يعود تاريخها لأكثر من 10,000 سنة.",
+    "cover": "/images/d4.jpg",
+    "rating": 4.9,
+    "category": "Nature",
+    "category_ar": "طبيعة",
+    "region": "Southeast Algeria",
+    "region_ar": "جنوب شرق الجزائر",
+    "temp": "42°C",
+    "distance": "2,000 km from Algiers",
+    "history": [
+      "Tassili n'Ajjer means 'Plateau of the Rivers' in Tamazight, referring to the ancient river systems that once flowed here.",
+      "Over 15,000 rock engravings and paintings have been discovered, depicting a lush Sahara with elephants, giraffes, and crocodiles.",
+      "The site was inscribed as a UNESCO World Heritage site and UNESCO Biosphere Reserve for its cultural and natural significance."
+    ],
+    "history_ar": [
+      "طاسيلي ناجر تعني 'هضبة الأنهار' بالأمازيغية، في إشارة إلى شبكات الأنهار القديمة التي كانت تتدفق هنا.",
+      "تم اكتشاف أكثر من 15,000 نقش ورسوم صخرية تصور صحراء خضراء بالفيلة والزرافات والتماسيح.",
+      "أدرج الموقع ضمن مواقع التراث العالمي لليونسكو ومحمية المحيط الحيوي لأهميته الثقافية والطبيعية."
+    ],
+    "nearbyGems": [
+      { "name": "Djanet", "slug": "djanet", "desc": "Gateway to Tassili" },
+      { "name": "Iherir Valley", "slug": "iherir", "desc": "Oasis with prehistoric paintings" },
+      { "name": "Sefar", "slug": "sefar", "desc": "One of the largest rock art sites" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Hoggar Mountains",
+    "title_ar": "جبال هقار",
+    "lat": 23.2883,
+    "lng": 5.6333,
+    "description": "Dramatic volcanic peaks rising from the Sahara, home to the iconic Mount Tahat — Algeria's highest point at 3,003 meters.",
+    "description_ar": "قمم بركانية شاهقة ترتفع من الصحراء، موطن جبل تاهات الشهير — أعلى نقطة في الجزائر بارتفاع 3,003 متر.",
+    "cover": "/images/d5.jpg",
+    "rating": 4.8,
+    "category": "Sahara",
+    "category_ar": "صحراء",
+    "region": "Central Sahara",
+    "region_ar": "وسط الصحراء",
+    "temp": "35°C",
+    "distance": "2,100 km from Algiers",
+    "history": [
+      "The Hoggar Mountains are a volcanic mountain range in the central Sahara, formed by eruptions millions of years ago.",
+      "Mount Tahat, the highest peak in Algeria at 3,003 meters, towers over a landscape of black volcanic rock and red sandstone.",
+      "The Tuareg people, known as the 'Blue Men of the Sahara', have inhabited this harsh yet beautiful region for centuries."
+    ],
+    "history_ar": [
+      "جبال هقار هي سلسلة جبال بركانية في وسط الصحراء الكبرى، تشكلت بفعل انفجارات بركانية منذ ملايين السنين.",
+      "جبل تاهات، أعلى قمة في الجزائر بارتفاع 3,003 أمتار، يهيمن على منظر طبيعي من الصخور البركانية السوداء والحجر الرملي الأحمر.",
+      "شعب الطوارق، المعروفون باسم 'رجال الصحراء الزرق'، سكنوا هذه المنطقة القاسية والجميلة لقرون."
+    ],
+    "nearbyGems": [
+      { "name": "Tamanrasset", "slug": "tamanrasset", "desc": "Capital of the Hoggar" },
+      { "name": "Assekrem", "slug": "assekrem", "desc": "Famous sunrise viewpoint" },
+      { "name": "Mount Tahat", "slug": "mount-tahat", "desc": "Algeria's highest peak" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bejaia",
+    "title_ar": "بجاية",
+    "lat": 36.7511,
+    "lng": 5.0642,
+    "description": "Stunning Mediterranean bay surrounded by lush mountains and national parks. Known for its sandy beaches and the historic Yemma Gouraya mountain.",
+    "description_ar": "خليج متوسطي خلاب تحيط به الجبال الخضراء والمتنزهات الوطنية. تشتهر بشواطئها الرملية وجبل يما قورايا التاريخي.",
+    "cover": "/images/d6.jpg",
+    "rating": 4.5,
+    "category": "Coastal",
+    "category_ar": "ساحلي",
+    "region": "Kabylia Coast",
+    "region_ar": "ساحل القبائل",
+    "temp": "24°C",
+    "distance": "250 km from Algiers",
+    "history": [
+      "Bejaia, known as Saldae in Roman times, was an important trading post for Phoenicians, Romans, and later the Hafsids.",
+      "In the 13th century, it became a center of learning visited by scholars including Leonardo Fibonacci, who introduced Arabic numerals to Europe here.",
+      "Today it is celebrated for its natural beauty, with the Gouraya National Park protecting its unique Mediterranean ecosystem."
+    ],
+    "history_ar": [
+      "بجاية، المعروفة باسم صالداي في العصر الروماني، كانت مركزاً تجارياً مهماً للفينيقيين والرومان ثم الحفصيين.",
+      "في القرن الثالث عشر، أصبحت مركزاً علمياً زارها علماء منهم ليوناردو فيبوناتشي الذي قدم الأرقام العربية إلى أوروبا من هنا.",
+      "تشتهر اليوم بجمالها الطبيعي، حيث تحمي الحديقة الوطنية لقورايا نظامها البيئي المتوسطي الفريد."
+    ],
+    "nearbyGems": [
+      { "name": "Gouraya National Park", "slug": "gouraya", "desc": "Coastal mountain and wildlife" },
+      { "name": "Tichy", "slug": "tichy", "desc": "Beautiful sandy beach" },
+      { "name": "Aokas", "slug": "aokas", "desc": "Known for its dramatic cliffs" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Djemila",
+    "title_ar": "جميلة",
+    "lat": 36.32,
+    "lng": 5.7367,
+    "description": "Berber-Roman ruins set against stunning mountain scenery. Formerly known as Cuicul, it features some of the best-preserved Roman mosaics in the world.",
+    "description_ar": "آثار رومانية أمازيغية في مناظر جبلية خلابة. كانت تعرف باسم كويكول، وتضم بعضاً من أفضل الفسيفساء الرومانية المحفوظة في العالم.",
+    "cover": "/images/d7.jpg",
+    "rating": 4.7,
+    "category": "Heritage",
+    "category_ar": "تراث",
+    "region": "Sétif Province",
+    "region_ar": "ولاية سطيف",
+    "temp": "30°C",
+    "distance": "350 km from Algiers",
+    "history": [
+      "Djemila, ancient Cuicul, was founded between 96-98 AD under Emperor Nerva as a Roman colony for veterans.",
+      "The site is renowned for its magnificent mosaic floors, many still in situ, depicting scenes from mythology and daily Roman life.",
+      "Its unique layout adapted to the mountainous terrain, with a forum, theater, temples, and baths spread across multiple terraces."
+    ],
+    "history_ar": [
+      "تأسست جميلة، كويكول القديمة، بين 96-98 ميلادي في عهد الإمبراطور نيرفا كمستعمرة رومانية للمحاربين القدماء.",
+      "يشتهر الموقع بأرضيات الفسيفساء الرائعة، الكثير منها لا يزال في مكانه، تصور مشاهد من الأساطير والحياة الرومانية اليومية.",
+      "تخطيطها الفريد تكيف مع التضاريس الجبلية، مع منتدى ومسرح ومعابد وحمامات موزعة على عدة مصاطب."
+    ],
+    "nearbyGems": [
+      { "name": "Sétif", "slug": "setif", "desc": "Nearby city with Roman ruins" },
+      { "name": "Mila", "slug": "mila", "desc": "Ancient Roman city of Milev" },
+      { "name": "Constantine", "slug": "constantine", "desc": "City of bridges" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "El Oued",
+    "title_ar": "الوادي",
+    "lat": 33.3561,
+    "lng": 6.8631,
+    "description": "The city of a thousand domes, nestled in the Souf region of the Sahara. Famous for its palm groves and unique desert architecture.",
+    "description_ar": "مدينة الألف قبة، في منطقة سوف بالصحراء الجزائرية. تشتهر ببساتين النخيل وهندستها الصحراوية الفريدة.",
+    "cover": "/images/d8.jpg",
+    "rating": 4.3,
+    "category": "Sahara",
+    "category_ar": "صحراء",
+    "region": "Northern Sahara",
+    "region_ar": "شمال الصحراء",
+    "temp": "40°C",
+    "distance": "650 km from Algiers",
+    "history": [
+      "El Oued is known as the 'City of a Thousand Domes' for its distinctive white-washed domed roofs that provide natural insulation.",
+      "The Souf region is famous for its innovative ghout farming system — palm trees planted in deep craters to reach underground water.",
+      "Traditional Soufi architecture uses domes to keep homes cool in summer and warm in winter, creating a unique lunar-like landscape."
+    ],
+    "history_ar": [
+      "الوادي تعرف باسم 'مدينة الألف قبة' بفضل أسقفها القبابية البيضاء المميزة التي توفر عزلاً طبيعياً.",
+      "منطقة سوف مشهورة بنظام الزراعة بالغوط — نخيل مزروع في فوهات عميقة للوصول إلى المياه الجوفية.",
+      "العمارة السوفية التقليدية تستخدم القباب لتبريد المنازل صيفاً وتدفئتها شتاءً، مما يخلق منظراً طبيعياً قمرياً فريداً."
+    ],
+    "nearbyGems": [
+      { "name": "Guemar", "slug": "guemar", "desc": "Traditional oasis town" },
+      { "name": "Taghit", "slug": "taghit", "desc": "Famous palm grove" },
+      { "name": "Oued Souf", "slug": "oued-souf", "desc": "The great sand sea" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Constantine",
+    "title_ar": "قسنطينة",
+    "lat": 36.365,
+    "lng": 6.6147,
+    "description": "The city of bridges, perched dramatically on a deep gorge. One of the oldest continuously inhabited cities in the world, founded by Phoenicians.",
+    "description_ar": "مدينة الجسور، تقع على وادٍ عميق. واحدة من أقدم المدن المأهولة باستمرار في العالم، أسسها الفينيقيون.",
+    "cover": "/images/d9.jpg",
+    "rating": 4.6,
+    "category": "Urban",
+    "category_ar": "مدينة",
+    "region": "Northeast Algeria",
+    "region_ar": "شمال شرق الجزائر",
+    "temp": "28°C",
+    "distance": "430 km from Algiers",
+    "history": [
+      "Constantine was founded by Phoenicians in the 6th century BC as Cirta, later becoming the capital of the Numidian kingdom.",
+      "The city was rebuilt by Emperor Constantine the Great in 313 AD, who gave it his name and transformed it into a Roman metropolis.",
+      "Its dramatic setting on a deep gorge crossed by seven bridges has earned it the nickname 'City of Bridges' and a reputation as one of Algeria's most beautiful cities."
+    ],
+    "history_ar": [
+      "تأسست قسنطينة على يد الفينيقيين في القرن السادس قبل الميلاد تحت اسم سيرتا، وأصبحت لاحقاً عاصمة المملكة النوميدية.",
+      "أعاد الإمبراطور قسطنطين العظيم بناء المدينة عام 313 ميلادي، وأعطاها اسمه وحولها إلى مدينة رومانية كبرى.",
+      "موقعها الدرامي على وادٍ عميق تعبره سبعة جسور أكسبها لقب 'مدينة الجسور' وسمعة كواحدة من أجمل المدن الجزائرية."
+    ],
+    "nearbyGems": [
+      { "name": "Tiddis", "slug": "tiddis", "desc": "Ancient Roman city in the mountains" },
+      { "name": "Hamma", "slug": "hamma", "desc": "Known for its hot springs" },
+      { "name": "Mila", "slug": "mila", "desc": "Historic town nearby" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Tipaza",
+    "title_ar": "تيبازة",
+    "lat": 36.5897,
+    "lng": 2.4475,
+    "description": "Ancient Roman and Phoenician ruins set on the Mediterranean coast, offering a breathtaking blend of history and sea views.",
+    "description_ar": "آثار رومانية وفينيقية قديمة على ساحل البحر الأبيض المتوسط، تقدم مزيجاً رائعاً من التاريخ وإطلالات البحر.",
+    "cover": "/images/d10.jpg",
+    "rating": 4.5,
+    "category": "Coastal",
+    "category_ar": "ساحلي",
+    "region": "Mediterranean Coast",
+    "region_ar": "الساحل المتوسطي",
+    "temp": "26°C",
+    "distance": "70 km from Algiers",
+    "history": [
+      "Tipaza was originally a Phoenician trading post before becoming a Roman colony under Emperor Claudius.",
+      "The coastal ruins include a theater, amphitheater, basilicas, and thermal baths, all set against the stunning Mediterranean Sea.",
+      "The site was inscribed as a UNESCO World Heritage site in 1982 and remains one of the most visited archaeological sites in Algeria."
+    ],
+    "history_ar": [
+      "كانت تيبازة في الأصل مركزاً تجارياً فينيقياً قبل أن تصبح مستعمرة رومانية في عهد الإمبراطور كلوديوس.",
+      "تضم الآثار الساحلية مسرحاً ومدرجاً وكنائس وحمامات حرارية، على خلفية البحر الأبيض المتوسط الخلاب.",
+      "أدرج الموقع ضمن مواقع التراث العالمي لليونسكو عام 1982 ويبقى من أكثر المواقع الأثرية زيارة في الجزائر."
+    ],
+    "nearbyGems": [
+      { "name": "Cherchell", "slug": "cherchell", "desc": "Roman imperial capital of Mauretania" },
+      { "name": "Sidi Fredj", "slug": "sidi-fredj", "desc": "Historic coastal resort" },
+      { "name": "Staoueli", "slug": "staoueli", "desc": "Beautiful Mediterranean beach" }
+    ]
+  }
+]

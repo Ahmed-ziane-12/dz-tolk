@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Home",
+    "discover": "Discover",
+    "login": "Sign In"
+  },
+  "home": {
+    "hero": {
+      "title": "Explore Algeria with Your AI Guide",
+      "subtitle": "Discover the hidden gems of Algeria — from the Sahara sands to Mediterranean shores — with a personal AI companion by your side.",
+      "searchPlaceholder": "Search destinations, activities...",
+      "search": "Explore",
+      "botGreeting": "Hello! I'm your Tolk guide. Ready to explore Algeria?",
+      "botHint": "Ask me anything about destinations, culture, or travel tips."
+    },
+    "destinations": {
+      "title": "Top Destinations",
+      "viewAll": "View All Destinations"
+    },
+    "experiences": {
+      "title": "Cultural Experiences",
+      "gastronomy": "Gastronomy",
+      "gastronomyDesc": "Savor Algeria's diverse culinary heritage from couscous to street food",
+      "craftsmanship": "Craftsmanship",
+      "craftsmanshipDesc": "Discover traditional Berber crafts, pottery, and woven textiles",
+      "tradition": "Tradition",
+      "traditionDesc": "Experience centuries-old customs, music, and festivals",
+      "art": "Art",
+      "artDesc": "Explore prehistoric rock art and contemporary Algerian creativity"
+    },
+    "ai": {
+      "title": "Your Personal Tolk Guide",
+      "subtitle": "Real-time AI assistance that learns your preferences and helps you plan the perfect Algerian adventure.",
+      "chat1": "What are the best places to visit in southern Algeria?",
+      "chat2": "I recommend starting with Ghardaïa's M'zab Valley, then heading to the Hoggar Mountains for stunning volcanic landscapes, and finishing at Tassili n'Ajjer for prehistoric rock art.",
+      "chat3": "Can you help me plan a 7-day itinerary?"
+    }
+  },
+  "discover": {
+    "searchPlaceholder": "Search destinations...",
+    "mapPlaceholder": "Interactive Map Loading...",
+    "results": "{count} of {total} destinations",
+    "map": "Map",
+    "list": "List",
+    "chatTitle": "Tolk Guide",
+    "chatPlaceholder": "Ask me anything...",
+    "chatResponse": "I recommend starting with Ghardaïa's M'zab Valley, then heading to the Hoggar Mountains for stunning volcanic landscapes, and finishing at Tassili n'Ajjer for prehistoric rock art."
+  },
+  "explore": {
+    "notFound": "Destination not found",
+    "backToDiscover": "← Back to Discover",
+    "historyTitle": "A Millennial Legacy",
+    "travelTitle": "How to Get There",
+    "aiGuide": "AI Local Guide",
+    "aiGuideSub": "Your personal Tolk guide",
+    "aiGuideMessage": "Ask me anything about this destination — from the best photo spots to local customs and nearby attractions.",
+    "askTolk": "Ask Tolk Guide",
+    "bookingTitle": "Ready to Visit?",
+    "bookingDesc": "Plan your trip with personalized recommendations and instant assistance from Tolk.",
+    "planVisit": "Plan Your Visit",
+    "nearbyTitle": "Nearby Gems",
+    "seeAll": "See All"
+  },
+  "footer": {
+    "description": "Your personal AI-powered guide to exploring Algeria's rich heritage, culture, and hidden gems.",
+    "explore": "Explore",
+    "about": "About"
+  }
+}

@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: #1643a3;
+  --color-primary-dark: #0f2e70;
+  --color-primary-light: #1e5fc7;
+  --color-gold: #d4a84b;
+  --color-gold-light: #e8c97a;
+  --color-gold-dark: #b8892e;
+  --color-cream: #fff8ee;
+  --color-surface: #f8f9fc;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@font-face {
+  font-family: "GeneralSans-Regular";
+  src: url("/fonts/GeneralSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Wafir";
+  src: url("/fonts/Wafir-Light.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("/fonts/NotoKufiArabic-Regular.woff2") format("woff2");
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Panchang-Bold";
+  src: url("/fonts/Panchang-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    GeneralSans-Regular,
+    Noto Kufi Arabic;
+}
+
+@layer utilities {
+  .glass {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    /* border: 1px solid rgba(255, 255, 255, 0.2); */
+  }
+}

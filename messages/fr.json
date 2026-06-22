@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "discover": "Découvrir",
+    "login": "Connexion"
+  },
+  "home": {
+    "hero": {
+      "title": "Explorez l'Algérie avec Votre Guide IA",
+      "subtitle": "Découvrez les joyaux cachés de l'Algérie — des sables du Sahara aux rives méditerranéennes — avec un compagnon IA personnel à vos côtés.",
+      "searchPlaceholder": "Rechercher des destinations, activités...",
+      "search": "Explorer",
+      "botGreeting": "Bonjour ! Je suis votre guide Tolk. Prêt à explorer l'Algérie ?",
+      "botHint": "Demandez-moi tout sur les destinations, la culture ou les conseils de voyage."
+    },
+    "destinations": {
+      "title": "Destinations Populaires",
+      "viewAll": "Voir Toutes les Destinations"
+    },
+    "experiences": {
+      "title": "Expériences Culturelles",
+      "gastronomy": "Gastronomie",
+      "gastronomyDesc": "Savourez la diversité culinaire algérienne du couscous à la street food",
+      "craftsmanship": "Artisanat",
+      "craftsmanshipDesc": "Découvrez l'artisanat berbère, la poterie et les textiles tissés",
+      "tradition": "Traditions",
+      "traditionDesc": "Vivez des coutumes, musiques et festivals séculaires",
+      "art": "Art",
+      "artDesc": "Explorez l'art rupestre préhistorique et la créativité algérienne contemporaine"
+    },
+    "ai": {
+      "title": "Votre Guide Tolk Personnel",
+      "subtitle": "Assistance IA en temps réel qui apprend vos préférences et vous aide à planifier l'aventure algérienne parfaite.",
+      "chat1": "Quels sont les meilleurs endroits à visiter dans le sud de l'Algérie ?",
+      "chat2": "Je vous recommande de commencer par la vallée du M'zab à Ghardaïa, puis de vous rendre dans les montagnes du Hoggar pour des paysages volcaniques époustouflants, et de terminer au Tassili n'Ajjer pour l'art rupestre préhistorique.",
+      "chat3": "Pouvez-vous m'aider à planifier un itinéraire de 7 jours ?"
+    }
+  },
+  "discover": {
+    "searchPlaceholder": "Rechercher des destinations...",
+    "mapPlaceholder": "Chargement de la carte interactive...",
+    "results": "{count} destinations sur {total}",
+    "map": "Carte",
+    "list": "Liste",
+    "chatTitle": "Guide Tolk",
+    "chatPlaceholder": "Posez-moi une question...",
+    "chatResponse": "Je vous recommande de commencer par la vallée du M'zab à Ghardaïa, puis de vous rendre dans les montagnes du Hoggar pour des paysages volcaniques époustouflants, et de terminer au Tassili n'Ajjer pour l'art rupestre préhistorique."
+  },
+  "explore": {
+    "notFound": "Destination introuvable",
+    "backToDiscover": "← Retour à Découvrir",
+    "historyTitle": "Un Héritage Millénaire",
+    "travelTitle": "Comment s'y Rendre",
+    "aiGuide": "Guide Local IA",
+    "aiGuideSub": "Votre guide Tolk personnel",
+    "aiGuideMessage": "Demandez-moi tout sur cette destination — des meilleurs spots photo aux coutumes locales et attractions à proximité.",
+    "askTolk": "Demander au Guide Tolk",
+    "bookingTitle": "Prêt à Visiter ?",
+    "bookingDesc": "Planifiez votre voyage avec des recommandations personnalisées et une assistance instantanée de Tolk.",
+    "planVisit": "Planifier Votre Visite",
+    "nearbyTitle": "Joyaux à Proximité",
+    "seeAll": "Voir Tout"
+  },
+  "footer": {
+    "description": "Votre guide personnel alimenté par l'IA pour explorer le riche patrimoine, la culture et les trésors cachés de l'Algérie.",
+    "explore": "Explorer",
+    "about": "À Propos"
+  }
+}
