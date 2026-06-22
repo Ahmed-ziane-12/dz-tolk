@@ -33,7 +33,16 @@
       "subtitle": "Real-time AI assistance that learns your preferences and helps you plan the perfect Algerian adventure.",
       "chat1": "What are the best places to visit in southern Algeria?",
       "chat2": "I recommend starting with Ghardaïa's M'zab Valley, then heading to the Hoggar Mountains for stunning volcanic landscapes, and finishing at Tassili n'Ajjer for prehistoric rock art.",
-      "chat3": "Can you help me plan a 7-day itinerary?"
+      "chat3": "Can you help me plan a 7-day itinerary?",
+      "chatLabel": "Tolk Guide",
+      "translation": "Real-time Translation",
+      "translationDesc": "Break language barriers instantly",
+      "insights": "Local Insights",
+      "insightsDesc": "Discover hidden gems only locals know",
+      "culture": "Cultural Context",
+      "cultureDesc": "Understand the stories behind every site",
+      "planning": "Trip Planning",
+      "planningDesc": "Get personalized itineraries in seconds"
     }
   },
   "discover": {
@@ -64,6 +73,15 @@
   "footer": {
     "description": "Your personal AI-powered guide to exploring Algeria's rich heritage, culture, and hidden gems.",
     "explore": "Explore",
-    "about": "About"
+    "about": "About",
+    "discoverAlgeria": "Discover Algeria",
+    "heritageSites": "Heritage Sites",
+    "natureLandscapes": "Nature & Landscapes",
+    "saharaAdventures": "Sahara Adventures",
+    "ourMission": "Our Mission",
+    "aiTechnology": "AI Technology",
+    "privacyPolicy": "Privacy Policy",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved."
   }
 }

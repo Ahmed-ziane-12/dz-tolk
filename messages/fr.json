@@ -33,7 +33,16 @@
       "subtitle": "Assistance IA en temps réel qui apprend vos préférences et vous aide à planifier l'aventure algérienne parfaite.",
       "chat1": "Quels sont les meilleurs endroits à visiter dans le sud de l'Algérie ?",
       "chat2": "Je vous recommande de commencer par la vallée du M'zab à Ghardaïa, puis de vous rendre dans les montagnes du Hoggar pour des paysages volcaniques époustouflants, et de terminer au Tassili n'Ajjer pour l'art rupestre préhistorique.",
-      "chat3": "Pouvez-vous m'aider à planifier un itinéraire de 7 jours ?"
+      "chat3": "Pouvez-vous m'aider à planifier un itinéraire de 7 jours ?",
+      "chatLabel": "Guide Tolk",
+      "translation": "Traduction en Temps Réel",
+      "translationDesc": "Éliminez instantanément les barrières linguistiques",
+      "insights": "Connaissances Locales",
+      "insightsDesc": "Découvrez des joyaux cachés que seuls les locaux connaissent",
+      "culture": "Contexte Culturel",
+      "cultureDesc": "Comprenez les histoires derrière chaque site",
+      "planning": "Planification de Voyage",
+      "planningDesc": "Obtenez des itinéraires personnalisés en quelques secondes"
     }
   },
   "discover": {
@@ -64,6 +73,15 @@
   "footer": {
     "description": "Votre guide personnel alimenté par l'IA pour explorer le riche patrimoine, la culture et les trésors cachés de l'Algérie.",
     "explore": "Explorer",
-    "about": "À Propos"
+    "about": "À Propos",
+    "discoverAlgeria": "Découvrir l'Algérie",
+    "heritageSites": "Sites Patrimoniaux",
+    "natureLandscapes": "Nature & Paysages",
+    "saharaAdventures": "Aventures Sahariennes",
+    "ourMission": "Notre Mission",
+    "aiTechnology": "Technologie IA",
+    "privacyPolicy": "Politique de Confidentialité",
+    "contactUs": "Contactez-Nous",
+    "rights": "Tous droits réservés."
   }
 }

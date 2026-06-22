@@ -1,7 +1,9 @@
 import Image from "next/image";
 import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 
 export default function Footer() {
+  const t = useTranslations("footer");
   return (
     <footer className="bg-primary-dark text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -17,13 +19,12 @@ export default function Footer() {
               />
             </Link>
             <p className="text-white/60 text-sm max-w-md">
-              Your personal AI-powered guide to exploring Algeria&apos;s rich
-              heritage, culture, and hidden gems.
+              {t("description")}
             </p>
           </div>
           <div>
             <h4 className="text-gold font-semibold mb-4 text-sm uppercase tracking-wider">
-              Explore
+              {t("explore")}
             </h4>
             <ul className="space-y-2 text-sm text-white/60">
               <li>
@@ -31,7 +32,7 @@ export default function Footer() {
                   href="/discover"
                   className="hover:text-gold transition-colors"
                 >
-                  Discover Algeria
+                  {t("discoverAlgeria")}
                 </Link>
               </li>
               <li>
@@ -39,7 +40,7 @@ export default function Footer() {
                   href="/discover?tag=heritage"
                   className="hover:text-gold transition-colors"
                 >
-                  Heritage Sites
+                  {t("heritageSites")}
                 </Link>
               </li>
               <li>
@@ -47,7 +48,7 @@ export default function Footer() {
                   href="/discover?tag=nature"
                   className="hover:text-gold transition-colors"
                 >
-                  Nature &amp; Landscapes
+                  {t("natureLandscapes")}
                 </Link>
               </li>
               <li>
@@ -55,41 +56,41 @@ export default function Footer() {
                   href="/discover?tag=sahara"
                   className="hover:text-gold transition-colors"
                 >
-                  Sahara Adventures
+                  {t("saharaAdventures")}
                 </Link>
               </li>
             </ul>
           </div>
           <div>
             <h4 className="text-gold font-semibold mb-4 text-sm uppercase tracking-wider">
-              About
+              {t("about")}
             </h4>
             <ul className="space-y-2 text-sm text-white/60">
               <li>
                 <span className="hover:text-gold transition-colors cursor-pointer">
-                  Our Mission
+                  {t("ourMission")}
                 </span>
               </li>
               <li>
                 <span className="hover:text-gold transition-colors cursor-pointer">
-                  AI Technology
+                  {t("aiTechnology")}
                 </span>
               </li>
               <li>
                 <span className="hover:text-gold transition-colors cursor-pointer">
-                  Privacy Policy
+                  {t("privacyPolicy")}
                 </span>
               </li>
               <li>
                 <span className="hover:text-gold transition-colors cursor-pointer">
-                  Contact Us
+                  {t("contactUs")}
                 </span>
               </li>
             </ul>
           </div>
         </div>
         <div className="border-t border-white/10 mt-8 pt-8 text-center text-sm text-white/40">
-          &copy; {new Date().getFullYear()} DZ Tolk. All rights reserved.
+          &copy; {new Date().getFullYear()} DZ Tolk. {t("rights")}
         </div>
       </div>
     </footer>

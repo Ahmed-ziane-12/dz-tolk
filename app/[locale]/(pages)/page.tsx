@@ -15,13 +15,10 @@ const experiences = [
 ];
 
 const features = [
-  { title: "Real-time Translation", desc: "Break language barriers instantly" },
-  { title: "Local Insights", desc: "Discover hidden gems only locals know" },
-  {
-    title: "Cultural Context",
-    desc: "Understand the stories behind every site",
-  },
-  { title: "Trip Planning", desc: "Get personalized itineraries in seconds" },
+  { key: "translation" },
+  { key: "insights" },
+  { key: "culture" },
+  { key: "planning" },
 ];
 
 export default function LandingPage() {
@@ -176,17 +173,17 @@ export default function LandingPage() {
               </h2>
               <p className="text-white/60 mb-8">{t("ai.subtitle")}</p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                {features.map((f) => (
+                {features.map(({ key }) => (
                   <div
-                    key={f.title}
+                    key={key}
                     className="flex items-start gap-3 p-4 rounded-xl bg-white/10 border border-white/10"
                   >
                     <span className="mt-1 text-gold text-lg shrink-0">◆</span>
                     <div>
                       <h4 className="font-semibold text-white text-sm">
-                        {f.title}
+                        {t(`ai.${key}`)}
                       </h4>
-                      <p className="text-xs text-white/60">{f.desc}</p>
+                      <p className="text-xs text-white/60">{t(`ai.${key}Desc`)}</p>
                     </div>
                   </div>
                 ))}
@@ -198,7 +195,7 @@ export default function LandingPage() {
                   <span className="text-gold text-sm">✦</span>
                 </div>
                 <span className="font-semibold text-white text-sm">
-                  Tolk Guide
+                  {t("ai.chatLabel")}
                 </span>
               </div>
               <div className="space-y-4">
