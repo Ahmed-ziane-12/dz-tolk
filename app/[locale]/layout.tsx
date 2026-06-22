@@ -9,6 +9,15 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
+export async function generateMetadata() {
+  return {
+    title: "DZ Tolk — Explore Algeria with Your AI Guide",
+    description:
+      "Discover the hidden gems of Algeria — from the Sahara sands to Mediterranean shores — with a personal AI companion by your side.",
+    icons: { icon: "/favicon.svg" },
+  };
+}
+
 export default async function RootLayout({
   children,
   params,
